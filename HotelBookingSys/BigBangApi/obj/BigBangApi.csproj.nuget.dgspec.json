@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BigBang\\HotelBookingSys\\BigBangApi\\BigBangApi.csproj": {}
+    "C:\\Users\\Chetna\\source\\repos\\BigBangApi\\BigBangApi.csproj": {}
   },
   "projects": {
-    "D:\\BigBang\\HotelBookingSys\\BigBangApi\\BigBangApi.csproj": {
+    "C:\\Users\\Chetna\\source\\repos\\BigBangApi\\BigBangApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BigBang\\HotelBookingSys\\BigBangApi\\BigBangApi.csproj",
+        "projectUniqueName": "C:\\Users\\Chetna\\source\\repos\\BigBangApi\\BigBangApi.csproj",
         "projectName": "BigBangApi",
-        "projectPath": "D:\\BigBang\\HotelBookingSys\\BigBangApi\\BigBangApi.csproj",
+        "projectPath": "C:\\Users\\Chetna\\source\\repos\\BigBangApi\\BigBangApi.csproj",
         "packagesPath": "C:\\Users\\Chetna\\.nuget\\packages\\",
-        "outputPath": "D:\\BigBang\\HotelBookingSys\\BigBangApi\\obj\\",
+        "outputPath": "C:\\Users\\Chetna\\source\\repos\\BigBangApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Chetna\\AppData\\Roaming\\NuGet\\NuGet.Config",
